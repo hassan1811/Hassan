@@ -7,7 +7,7 @@ for i in range(3):
 def displayUser(user):
     print("*" * 20)
     print("Email : ", user[0])
-    print("Password : ", user[1])
+    print("Password : ", user[1]) #comment
     print("Name : ", user [2])
 
 
